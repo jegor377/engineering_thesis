@@ -1,0 +1,6 @@
+[submodule "thesis_classifier"]
+	path = thesis_classifier
+	url = https://github.com/jegor377/thesis_classifier
+[submodule "liar_plus_analysis"]
+	path = liar_plus_analysis
+	url = https://github.com/jegor377/liar_plus_analysis
