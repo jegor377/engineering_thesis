@@ -1,6 +1,6 @@
 # Engineering Thesis
 
-![final model architecture](final_model_sma.png)
+![final model architecture](final_model_sma.jpg)
 
 The project explores machine-learning approaches to classifying the truthfulness of text. It evaluates whether augmenting the input with automatically generated content can improve classification performance. The system uses a RoBERTa-based encoder, and the generated content consists of synthesized articles derived from the original input. The project also includes a demo application for testing and demonstrating the solution.
 
